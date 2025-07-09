@@ -62,7 +62,7 @@ This Power BI report was built for an executive team to monitor product performa
 
 ## 📷 Dashboard Preview
 
-![Product Performance Dashboard](https://github.com/yourusername/product_performance_tracker/blob/main/assets/dashboard_preview.png)
+![Product Performance Dashboard]([https://github.com/yourusername/product_performance_tracker/blob/main/assets/dashboard_preview.png](https://github.com/Oacquah31/product-performance-tracker/blob/main/Screenshot%202025-05-15%20095120.png))
 
 ---
 
